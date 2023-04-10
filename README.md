@@ -1,6 +1,5 @@
-[Place Holder Name], 
-🌱
-*Program Description* 
+# FullyHacks 2023
+Sprout Man🌱
 This is a platformer game where you go through the levels designed around certain programming concepts such as if statments, loops and recursion. Each level has a gimmick related to a certain programming concept. 
 
 ##runthrough
